@@ -1,0 +1,16 @@
+/*LE CORPS DE LA PAGE*/
+body
+{
+  background-color: #f2f1e7;
+}
+
+/*LA BARRE DE NAVIGATION*/
+.nav-link
+{
+  color: #915b4a;
+}
+
+.active
+{
+  background-color: #915b4a !important;
+}
